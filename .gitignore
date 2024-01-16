@@ -13,3 +13,5 @@
 
 # Mac hidden file
 .DS_Store
+
+vendor/*
